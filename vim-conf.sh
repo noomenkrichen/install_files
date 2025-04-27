@@ -11,6 +11,6 @@ mv ${XDG_CONFIG_HOME:-$HOME}/temp/vim/vim/.vim ${XDG_CONFIG_HOME:-$HOME}/.vim
 echo "=               >>> Cleaning tmux installation files... ="
 sudo rm -r ${XDG_CONFIG_HOME:-$HOME}/temp/vim
 echo "=               >>> Installation complete with success! ="
-echo "= Now open tmux and enjoy your new tmux configuration!  ="
+echo "= Now open Vim and enjoy your new Vim configuration!    ="
 echo "========================================================="
 vim
