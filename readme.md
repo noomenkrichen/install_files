@@ -7,28 +7,28 @@
 
 Run the following commands in your bash terminal step by step:
 ## Step-1
-Download installation files into temp folder
+Run this command to download installation files into temp folder
 ```bash
 git clone https://github.com/noomenkrichen/install_files.git "${XDG_CONFIG_HOME:-$HOME}/temp"
 ```
 ## Step-2
-Change directory to the temp folder
+Run this command to change directory to the temp folder
 ```bash
 cd ${XDG_CONFIG_HOME:-$HOME}/temp
 ```
 Now you can start installing the configurations for tmux and vim.
 ## 1- Tmux configuration file installation
-Run the tmux-conf.sh  installation file
+Run the tmux-conf.sh installation file using this command
 ```bash
 ./tmux-conf.sh
 ```
 ## 2- Vim configuration file installation
-Run the tmux-conf.sh  installation file
+Run the vim-conf.sh installation file using this command
 ```bash
 ./vim-conf.sh
 ```
 ## 3- Clean your system from any downloaded temporary files (optional)
-Clean your machine from any temporary files
+Remove the temp folder using this command
 ```bash
 sudo rm -r ${XDG_CONFIG_HOME:-$HOME}/temp
 ```
