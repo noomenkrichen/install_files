@@ -14,3 +14,8 @@ cd ${XDG_CONFIG_HOME:-$HOME}/temp
 ```bash
 ./tmux-conf.sh
 ```
+### Step-4
+Clean your machine from any temporary files
+```bash
+sudo rm -r ~/temp
+```
