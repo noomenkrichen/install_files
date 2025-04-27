@@ -6,7 +6,7 @@ echo "=                      April 2025                       ="
 echo "========================================================="
 echo -e "=\e[36m                              >>> Downloading files... \e[35m=\e[0m"
 git clone https://github.com/noomenkrichen/my_dotfiles.git "${XDG_CONFIG_HOME:-$HOME}/temp/vim"
-echo -e "\e[35m=\e[36m            >>> Removing old VIM configuration files... \e[35m=\e[0m"
+echo -e "\e[35m=\e[36m           >>> Removing old VIM configuration files... \e[35m=\e[0m"
 sudo rm -r ${XDG_CONFIG_HOME:-$HOME}/.vim
 echo -e "\e[35m=\e[36m         >>> Installing new VIM configuration files... \e[35m=\e[0m"
 mv ${XDG_CONFIG_HOME:-$HOME}/temp/vim/vim/.vimrc ${XDG_CONFIG_HOME:-$HOME}/
