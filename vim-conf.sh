@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e "\e[35m========================================================="
 echo "=           Installation of VIM Configuration           ="
 echo "=          -< Automation by Noomen Krichen >-           ="
