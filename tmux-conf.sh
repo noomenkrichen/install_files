@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "========================================================="
 echo "=          Installation of tmux Configuration           ="
 echo "=          -< Automation by Noomen Krichen >-           ="
