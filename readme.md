@@ -2,9 +2,8 @@
 
 ## 1- tmux configuration file installation
 ### NOTE:
-First of all you need to ensure you have one of the [Nerd Fonts](https://www.nerdfonts.com/) installed on your machine.
-
-For Ubuntu, it is recommended to use the [FiraMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraMono.zip)
+- First of all you need to ensure you have one of the [Nerd Fonts](https://www.nerdfonts.com/) installed on your machine.
+- For Ubuntu, it is recommended to use the [FiraMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraMono.zip)
 
 Run the following commands in your bash terminal step by step:
 ### Step-1
