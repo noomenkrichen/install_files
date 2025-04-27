@@ -14,5 +14,5 @@ mv ${XDG_CONFIG_HOME:-$HOME}/temp/vim/vim/.vim ${XDG_CONFIG_HOME:-$HOME}/.vim
 echo -e "\e[35m=\e[36m                >>> Cleaning VIM installation files... \e[35m=\e[0m"
 sudo rm -r ${XDG_CONFIG_HOME:-$HOME}/temp/vim
 echo -e "\e[35m=\e[36m               >>> Installation complete with Success! \e[35m="
-echo -e "=\e[32m Now open VIM and enjoy your new Vim configuration!    \e[35m="
+echo -e "=\e[32m     >>> Now open VIM and enjoy the new configuration! \e[35m="
 echo -e "=========================================================\e[0m"
