@@ -4,6 +4,8 @@
 ### NOTE:
 - First of all you need to ensure you have one of the [Nerd Fonts](https://www.nerdfonts.com/) installed on your machine.
 - For Ubuntu, it is recommended to download and install the [FiraMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraMono.zip)
+- After downloading the Nerd Font zip file, go to your download folder and unzipped.
+- Afetr unzip, move to the unzipped folder and double click the desired font file, then click install in the top menu.
 
 Run the following commands in your bash terminal step by step:
 ### Step-1
