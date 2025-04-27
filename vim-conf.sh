@@ -1,1 +1,5 @@
-
+echo "========================================================="
+echo "=           Installation of Vim Configuration           ="
+echo "=          -< Automation by Noomen Krichen >-           ="
+echo "=                      April 2025                       ="
+echo "========================================================="
