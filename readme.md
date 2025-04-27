@@ -7,7 +7,7 @@
 
 Run the following commands in your bash terminal step by step:
 ## Step-1
-Download installation file into temp folder
+Download installation files into temp folder
 ```bash
 git clone https://github.com/noomenkrichen/install_files.git "${XDG_CONFIG_HOME:-$HOME}/temp"
 ```
