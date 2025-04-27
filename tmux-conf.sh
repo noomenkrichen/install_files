@@ -12,3 +12,4 @@ sudo rm -r ${XDG_CONFIG_HOME:-$HOME}/temp/tmux
 echo "=               >>> Installation complete with success! ="
 echo "= Now open tmux and enjoy your new tmux configuration!  ="
 echo "========================================================="
+tmux
